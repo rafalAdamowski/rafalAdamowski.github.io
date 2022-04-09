@@ -1447,3 +1447,9 @@ a {
 .cid-s48P1Icc8J foot-menu-item DIV {
   text-align: right;
 }
+.cid-s48P1Icc8J .media-container-row .mbr-text {
+  text-align: left;
+}
+.cid-s48P1Icc8J .media-container-row .mbr-text P {
+  text-align: center;
+}
